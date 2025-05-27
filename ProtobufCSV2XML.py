@@ -1,7 +1,7 @@
 import csv
 import xml.etree.ElementTree as ET
 
-target_user = "cbeb07c9"  # 要提取的目标用户midHash
+target_user = "ffffe965"  # 要提取的目标用户midHash
 
 def convert_appear_time(ms):
     return f"{float(ms)/1000:.5f}"
@@ -55,4 +55,4 @@ def csv_to_xml(csv_path, xml_path, target_user):
     with open(xml_path, 'w', encoding='utf-8') as f:
         f.write(final_xml)
 
-csv_to_xml("input.csv", f"user_{target_user}.xml", target_user)
+csv_to_xml("input-no.csv", f"user_{target_user}.xml", target_user)
