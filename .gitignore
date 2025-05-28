@@ -172,9 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-input.csv
 input-no.csv
-input.csv
+all_danmaku.xml
 input.csv
 user_cbeb07c9.xml
-all_danmaku.xml
