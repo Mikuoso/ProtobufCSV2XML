@@ -55,4 +55,5 @@ def csv_to_xml(csv_path, xml_path):
 
 
 # 使用示例（自动处理所有用户）
-csv_to_xml("input-no.csv", "all_danmaku.xml")  # 输入输出路径可自定义
+csv_to_xml(r"C:\Users\16122\Desktop\Danmaku\CSV\P3.csv",
+           r"C:\Users\16122\Desktop\Danmaku\XMLall\P3.xml")  # 输入输出路径可自定义
