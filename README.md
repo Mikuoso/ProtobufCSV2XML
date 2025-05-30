@@ -5,4 +5,4 @@
 
 目前有两个版本:  
 `ProtobufCSV2XML.py`通过 `midHash` 标识符指定目标用户弹幕并转化为标准 XML 格式。  
-`ProtobufCSV2XML.py`不指定目标用户，直接将所有弹幕转化为标准 XML 格式。
+`ProtobufCSV2XML-no-target.py`不指定目标用户，直接将所有弹幕转化为标准 XML 格式。
