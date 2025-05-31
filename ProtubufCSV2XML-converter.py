@@ -4,8 +4,8 @@ from pathlib import Path
 
 
 # ——————————用户配置区——————————
-INPUT_PATH = Path(r"C:\Users\16122\Desktop\Danmaku\CSV\P1.csv")    #输入路径（含输入文件名）
-OUTPUT_PATH = Path(r"C:\Users\16122\Desktop\Python Tools\output.xml")    #输出路径（含输出文件名）
+INPUT_PATH = Path(r"C:\path\to\the\input_file.csv")    #输入路径（含输入文件名）
+OUTPUT_PATH = Path(r"C:\path\to\the\output.xml")    #输出路径（含输出文件名）
 TARGET_USER_MIDHASH = "abcd1234"    #指定用户midHash，留空则转换全部
 # ————————————————————————————
 
