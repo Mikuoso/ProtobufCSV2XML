@@ -84,5 +84,5 @@ def csv_to_xml(input_path: Path, output_path: Path, filter_target: str = None):
 
 
 if __name__ == "__main__":
-    user_target = TARGET_USER_MIDHASH.strip() or None
-    csv_to_xml(INPUT_PATH, OUTPUT_PATH, user_target)
+    target_user = TARGET_USER_MIDHASH.strip() or None
+    csv_to_xml(INPUT_PATH, OUTPUT_PATH, target_user)
