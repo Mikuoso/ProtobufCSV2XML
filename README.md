@@ -1,5 +1,5 @@
 # ProtobufCSV2XML CSV转XML弹幕工具
-**注**：该已完成与[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)合并工作！本项目将停止维护，请移步至[BiliDanmakuDownloader](https://github.com/Mikuoso/BiliDanmakuDownloader)！  
+**注**：该项目已完成与[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)的合并工作！本项目现已停止维护，请移步至[BiliDanmakuDownloader](https://github.com/Mikuoso/BiliDanmakuDownloader)！  
 
 项目本身无使用意义，需搭配另外两个工具使用  
 分别是[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)与[BiliDanmakuDiff](https://github.com/Mikuoso/BiliDanmakuDiff)
