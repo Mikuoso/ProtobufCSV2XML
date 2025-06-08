@@ -1,5 +1,6 @@
 # ProtobufCSV2XML CSV转XML弹幕工具
-注：该项目准备与[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)合并！敬请期待。  
+**注**：该已完成与[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)合并工作！本项目将停止维护，请移步至[BiliDanmakuDownloader](https://github.com/Mikuoso/BiliDanmakuDownloader)！  
+
 项目本身无使用意义，需搭配另外两个工具使用  
 分别是[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)与[BiliDanmakuDiff](https://github.com/Mikuoso/BiliDanmakuDiff)
 
@@ -31,4 +32,4 @@ TARGET_USER_MIDHASH = "abcd1234"      # 指定用户midHash(留空则转换全�
 不指定目标用户，直接将所有弹幕转化为标准 XML 格式。
 
 ## 更新计划
-本项目最初是为《【高清修复】东方幻想万华镜全集》补档工作而设计，尽管现已结束补档工作，但本项目将继续作为练手作继续练习开发、维护。
+本项目最初是为《【高清修复】东方幻想万华镜全集》补档工作而设计，现已与[BiliDMProtobufDownloader](https://github.com/Mikuoso/BiliDMProtobufDownloader)合并为[BiliDanmakuDownloader](https://github.com/Mikuoso/BiliDanmakuDownloader)，现决定停止维护。
